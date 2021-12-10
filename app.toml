@@ -1,0 +1,12 @@
+[App]
+Name = "challenge-wildfires-submission-Team Pegasus"
+Version = "1.0"
+Title = "EDA on California Fire Incidents - Team Pegasus"
+Description = "Analysis of Data to see the behaviour of Forest Fires in California from 2013-2020"
+LongDescription = "about.md"
+Tags = ["WILDFIRES"]
+
+[Runtime]
+Module = "eda"
+MemoryLimit = "5Gi"
+MemoryReservation = "1Gi"
